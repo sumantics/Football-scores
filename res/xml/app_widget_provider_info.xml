@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--     android:configure="barqsoft.footballscores.FootballScoresAppWidgetConfigure"
+
+-->
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
+    android:initialLayout="@layout/app_widget_provider_layout"
+    android:previewImage="@drawable/ic_launcher"
+    android:minHeight="100dp"
+    android:minWidth="100dp"
+    android:minResizeHeight="150dp"
+    android:minResizeWidth="100dp"
+    android:resizeMode="vertical|horizontal"
+    android:updatePeriodMillis="86400000"
+    android:widgetCategory="keyguard|home_screen" >
+</appwidget-provider>
